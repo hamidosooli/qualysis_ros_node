@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# code heavily adapted from https://github.com/tbretl/crazyflie-client/blob/main/ae483clients.py
 import rclpy
 from rclpy.node import Node
 
